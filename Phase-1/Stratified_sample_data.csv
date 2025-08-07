@@ -1,0 +1,101 @@
+Region,,ID,Age,Gender,Income,Education,Region
+East,644,645,39,Other,89002,PhD,East
+East,300,301,41,Male,46563,PhD,East
+East,195,196,21,Other,114035,PhD,East
+East,353,354,70,Female,120926,Masters,East
+East,444,445,60,Other,93294,PhD,East
+East,73,74,33,Male,58704,PhD,East
+East,272,273,36,Female,79747,High School,East
+East,86,87,56,Other,25103,PhD,East
+East,738,739,48,Other,39319,PhD,East
+East,985,986,62,Female,50655,Masters,East
+East,473,474,64,Female,65119,High School,East
+East,706,707,67,Male,113201,Masters,East
+East,669,670,69,Male,91366,PhD,East
+East,268,269,42,Other,52236,PhD,East
+East,391,392,46,Female,21512,Bachelors,East
+East,159,160,36,Male,38109,Bachelors,East
+East,410,411,18,Female,68761,High School,East
+East,498,499,48,Female,20947,Masters,East
+East,997,998,37,Female,57913,PhD,East
+East,8,9,27,Other,95040,PhD,East
+East,207,208,20,Other,22441,High School,East
+East,319,320,21,Other,46704,Bachelors,East
+East,860,861,76,Other,27696,PhD,East
+East,430,431,25,Other,148821,Masters,East
+East,528,529,25,Female,136336,Masters,East
+North,976,977,43,Other,118906,Bachelors,North
+North,879,880,25,Male,123441,High School,North
+North,711,712,41,Female,117485,PhD,North
+North,310,311,27,Male,29515,PhD,North
+North,591,592,24,Male,104932,PhD,North
+North,334,335,51,Other,148278,Masters,North
+North,838,839,28,Other,56565,Masters,North
+North,237,238,79,Female,97852,Bachelors,North
+North,324,325,63,Male,118347,Masters,North
+North,253,254,33,Female,75945,Masters,North
+North,399,400,27,Other,132920,High School,North
+North,370,371,79,Male,54169,PhD,North
+North,678,679,37,Male,85978,Bachelors,North
+North,890,891,64,Female,54431,Bachelors,North
+North,858,859,36,Male,103843,PhD,North
+North,980,981,77,Female,123554,Bachelors,North
+North,634,635,23,Other,87848,High School,North
+North,346,347,19,Female,122024,PhD,North
+North,9,10,37,Female,59105,Masters,North
+North,899,900,68,Male,148204,PhD,North
+North,181,182,18,Female,100683,Bachelors,North
+North,979,980,60,Male,28824,Masters,North
+North,796,797,24,Male,91842,Masters,North
+North,988,989,72,Male,105049,PhD,North
+North,71,72,70,Other,140031,Bachelors,North
+South,247,248,39,Female,110239,Masters,South
+South,683,684,24,Other,34036,Bachelors,South
+South,986,987,37,Other,104699,Bachelors,South
+South,898,899,64,Other,134729,High School,South
+South,120,121,39,Other,96693,High School,South
+South,427,428,50,Female,81888,High School,South
+South,503,504,53,Male,34590,Masters,South
+South,686,687,77,Female,66192,High School,South
+South,891,892,72,Other,43050,PhD,South
+South,754,755,68,Female,121790,Masters,South
+South,393,394,37,Other,60481,High School,South
+South,463,464,33,Male,121376,PhD,South
+South,364,365,67,Male,53260,Masters,South
+South,284,285,50,Female,86351,Bachelors,South
+South,577,578,38,Male,31531,PhD,South
+South,64,65,18,Other,121515,Masters,South
+South,476,477,69,Other,78981,Masters,South
+South,341,342,23,Female,41272,PhD,South
+South,873,874,42,Male,130779,High School,South
+South,244,245,77,Male,81230,High School,South
+South,411,412,40,Male,63466,PhD,South
+South,436,437,70,Female,71851,PhD,South
+South,601,602,28,Female,43763,Bachelors,South
+South,513,514,57,Male,128741,High School,South
+South,53,54,50,Male,83483,PhD,South
+West,946,947,70,Female,122547,Bachelors,West
+West,34,35,69,Male,128605,Bachelors,West
+West,361,362,68,Male,44533,Masters,West
+West,867,868,23,Female,81797,Masters,West
+West,118,119,31,Male,71544,Masters,West
+West,164,165,68,Other,137101,Bachelors,West
+West,545,546,72,Female,75499,High School,West
+West,524,525,26,Other,23377,High School,West
+West,846,847,65,Female,104961,High School,West
+West,138,139,52,Male,100979,Masters,West
+West,249,250,31,Male,94835,Masters,West
+West,520,521,40,Male,62139,High School,West
+West,741,742,71,Male,49111,Bachelors,West
+West,10,11,39,Male,25241,Masters,West
+West,148,149,61,Other,103884,Bachelors,West
+West,39,40,36,Male,85031,High School,West
+West,335,336,23,Other,88373,PhD,West
+West,127,128,49,Male,105654,Masters,West
+West,851,852,68,Other,117933,Bachelors,West
+West,574,575,21,Other,79489,Bachelors,West
+West,906,907,72,Other,63762,PhD,West
+West,320,321,49,Female,68611,Bachelors,West
+West,201,202,58,Female,44838,Masters,West
+West,832,833,55,Male,54619,Masters,West
+West,273,274,65,Female,112410,PhD,West
