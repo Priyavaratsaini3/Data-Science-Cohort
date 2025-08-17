@@ -13,15 +13,13 @@ newdata = data['Income']
 simple_randomSample = newdata.sample(n=100 , random_state=44)
 
 mean_value = np.mean(simple_randomSample)
-print("mean of the Simple Random Sample", mean_value)
+print("mean of the Simple Random Sample -->", mean_value)
 
 median_value = np.median(simple_randomSample)
-print("median of the Simple Random Sample",median_value)
+print("median of the Simple Random Sample  -->",median_value)
 
 mode_value = stats.mode(simple_randomSample, keepdims=True)
-print("mode of the Simple Random Sample",mode_value.mode[0])
-
-print("--------------------------------------------------------------------------------------------")
+print("mode of the Simple Random Sample -->",mode_value.mode[0])
 
 ##Stratified Random Sample to Measure of the Central Tendency 
 
@@ -37,7 +35,6 @@ print("median of the Stratified Random Sample --> ",median_of_stratified)
 mode_of_stratified = stats.mode(new_stratified, keepdims=True)
 print("mode of the Stratified Random Sample --> ",mode_of_stratified.mode[0])
 
-print("--------------------------------------------------------------------------------------------")
 ## Cluster Random Sample to Measure of the Central Tendency 
 
 Cluster_random_sampling = data['Region'].sample(n=1, random_state=44).iloc[0]
@@ -53,8 +50,6 @@ print("median of the Cluster Random Sample -->",median_of_cluster)
 mode_of_cluster = stats.mode(cluster_sample, keepdims=True)
 print("mode of the Cluster Random Sample -->",mode_of_cluster.mode[0])
 
-print("--------------------------------------------------------------------------------------------")
-
 ## Systemtic Random Sample to Measure of the Central Tendency 
 
 Systemtic_Sampling = data['Income'].iloc[::10]
@@ -67,8 +62,6 @@ print("median of the Systemtic Random Sample -->",median_of_systemtic)
 
 mode_of_systemtic = stats.mode(Systemtic_Sampling, keepdims=True)
 print("mode of the Systemtic Random Sample -->",mode_of_systemtic.mode[0])
-
-print("--------------------------------------------------------------------------------------------")
 
 ## Mean of the population 
 ## 3. Finally, conclude which specific sampling technique mean value is almost similar to the population mean value. 
