@@ -6,11 +6,16 @@
 
 ## 4. Use the [population Survey Data](Population_Survey_Data_lyst1750274390196.csv)
 
-## 5. why in the sample data when we evaluate the satandard deviation or variance we divide the factor ny n-1
+## completed
+
+## 5. why in the sample data when we evaluate the standard deviation or variance we divide the factor by n-1
 
 ## 6. probability Distribution --> Kurtosis: Measures the tailesness of the data distribution. --> create a blog
 
 ## 7. Use case: Evaluate the kurtosis of the portfolio returns over the past year and what does that signify. and, you have to do the implementation corresponding to it.
+
+## 8. Add a few samples in such way that it will become postive kurtosis
+
 
 
 
